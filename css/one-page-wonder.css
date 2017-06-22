@@ -115,6 +115,10 @@ footer {
     .featurette-heading {
         font-size: 35px;
     }
+
+    .featurette-heading2 {
+        font-size: 25px;
+    }
 }
 
 @media(max-width:991px) {
@@ -145,6 +149,10 @@ footer {
     .featurette-heading {
         font-size: 30px;
     }
+
+    .featurette-heading2 {
+        font-size: 20px;
+    }
 }
 
 @media(max-width:768px) {
@@ -158,6 +166,10 @@ footer {
 
     .featurette-heading {
         font-size: 25px;
+    }
+
+    .featurette-heading2 {
+        font-size: 16px;
     }
 }
 
